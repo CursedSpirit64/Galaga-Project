@@ -1,7 +1,1105 @@
 fileFormatVersion: 2
 guid: c5f2e15465f48584ab14042f382b416b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4816916880796607145
+    second: Galaga sprites_0
+  - first:
+      213: 2095931631198386223
+    second: Player_1
+  - first:
+      213: -6943352314762994941
+    second: Galaga sprites_0
+  - first:
+      213: 2095931631198386223
+    second: Galaga sprites_1
+  - first:
+      213: 6051037797584438528
+    second: Galaga sprites_2
+  - first:
+      213: 3701092266837782054
+    second: Galaga sprites_3
+  - first:
+      213: 6818699618824853364
+    second: Galaga sprites_4
+  - first:
+      213: -1961687600328109477
+    second: Galaga sprites_5
+  - first:
+      213: -8565771632713379592
+    second: Player_1
+  - first:
+      213: -884594074171790067
+    second: Galaga sprites_7
+  - first:
+      213: -1495564638398167401
+    second: Galaga sprites_8
+  - first:
+      213: 5342770702266817989
+    second: Galaga sprites_9
+  - first:
+      213: -2323987808666994361
+    second: Galaga sprites_10
+  - first:
+      213: -377324354706516778
+    second: Galaga sprites_11
+  - first:
+      213: 1654383352581100014
+    second: Galaga sprites_12
+  - first:
+      213: -1443306156164737460
+    second: Galaga sprites_13
+  - first:
+      213: -4303331480875370440
+    second: Galaga sprites_14
+  - first:
+      213: 2350276494553886254
+    second: Galaga sprites_15
+  - first:
+      213: -4737451038593819705
+    second: Galaga sprites_16
+  - first:
+      213: -5542207821817554974
+    second: Galaga sprites_17
+  - first:
+      213: 6141911618196366808
+    second: Galaga sprites_18
+  - first:
+      213: 2499757554348396927
+    second: Galaga sprites_19
+  - first:
+      213: -7138139645063661440
+    second: Galaga sprites_20
+  - first:
+      213: -4768754657862040580
+    second: Galaga sprites_21
+  - first:
+      213: -3535007240058882318
+    second: Galaga sprites_22
+  - first:
+      213: 7563868488455059306
+    second: Galaga sprites_23
+  - first:
+      213: -3488183422342520532
+    second: Galaga sprites_24
+  - first:
+      213: 934832046095709177
+    second: Galaga sprites_25
+  - first:
+      213: 649002396715726371
+    second: Galaga sprites_26
+  - first:
+      213: 6426666868382253194
+    second: Galaga sprites_27
+  - first:
+      213: -2588594140121912910
+    second: Galaga sprites_28
+  - first:
+      213: -7814745189316100267
+    second: Galaga sprites_29
+  - first:
+      213: 8387911174865403192
+    second: Galaga sprites_30
+  - first:
+      213: -1354973051963548548
+    second: Galaga sprites_31
+  - first:
+      213: -5826500518353945274
+    second: Galaga sprites_32
+  - first:
+      213: -8275606587897876956
+    second: Galaga sprites_33
+  - first:
+      213: 5382224195425148647
+    second: Galaga sprites_34
+  - first:
+      213: 6438748730618148641
+    second: Galaga sprites_35
+  - first:
+      213: 3250342514110338824
+    second: Galaga sprites_36
+  - first:
+      213: 483073183696505320
+    second: Galaga sprites_37
+  - first:
+      213: 7045707402581966440
+    second: Galaga sprites_38
+  - first:
+      213: 4672585756621683029
+    second: Galaga sprites_39
+  - first:
+      213: 1834043596345014112
+    second: Galaga sprites_40
+  - first:
+      213: -342502020809853532
+    second: Galaga sprites_41
+  - first:
+      213: 5394441755176398264
+    second: Galaga sprites_42
+  - first:
+      213: -6871925399937431262
+    second: Galaga sprites_43
+  - first:
+      213: -7191638911925857324
+    second: Galaga sprites_44
+  - first:
+      213: -3655097009390940150
+    second: Galaga sprites_45
+  - first:
+      213: 7058551865711665125
+    second: Galaga sprites_46
+  - first:
+      213: 6979012716199229780
+    second: Galaga sprites_47
+  - first:
+      213: -2860371604995939248
+    second: Galaga sprites_48
+  - first:
+      213: 7130761510011648763
+    second: Galaga sprites_49
+  - first:
+      213: 15167757724095902
+    second: Galaga sprites_50
+  - first:
+      213: 6221432361904116816
+    second: Galaga sprites_51
+  - first:
+      213: 3754336648982929898
+    second: Galaga sprites_52
+  - first:
+      213: 418357498349722167
+    second: Galaga sprites_53
+  - first:
+      213: -6290857747602018922
+    second: Galaga sprites_54
+  - first:
+      213: 7289284310707740653
+    second: Galaga sprites_55
+  - first:
+      213: -6385680419489338031
+    second: Enemy_Ship_1
+  - first:
+      213: -423406596257922949
+    second: Enemy_Ship_2
+  - first:
+      213: -5198233476408659677
+    second: Galaga sprites_58
+  - first:
+      213: 686767519133933509
+    second: Galaga sprites_59
+  - first:
+      213: -3960195988964990654
+    second: Galaga sprites_60
+  - first:
+      213: 6321975624731294085
+    second: Galaga sprites_61
+  - first:
+      213: -6498301169555127876
+    second: Galaga sprites_62
+  - first:
+      213: -664851258033276803
+    second: Galaga sprites_63
+  - first:
+      213: -2440999708170294959
+    second: Galaga sprites_64
+  - first:
+      213: -4457770163455370989
+    second: Galaga sprites_65
+  - first:
+      213: 5053141427507558203
+    second: Galaga sprites_66
+  - first:
+      213: -6948744681656481358
+    second: Galaga sprites_67
+  - first:
+      213: -1310991008085320152
+    second: Galaga sprites_68
+  - first:
+      213: -3188936118311619640
+    second: Galaga sprites_69
+  - first:
+      213: -8311553646720267694
+    second: Galaga sprites_70
+  - first:
+      213: 3286912057630214396
+    second: Galaga sprites_71
+  - first:
+      213: 6609053534610841276
+    second: Galaga sprites_72
+  - first:
+      213: 7126920605490579213
+    second: Galaga sprites_73
+  - first:
+      213: 9069563878753898304
+    second: Galaga sprites_74
+  - first:
+      213: 8707278313289949758
+    second: Galaga sprites_75
+  - first:
+      213: -3387497210880534479
+    second: Galaga sprites_76
+  - first:
+      213: 1009039157283498478
+    second: Galaga sprites_77
+  - first:
+      213: -2907062507081208614
+    second: Galaga sprites_78
+  - first:
+      213: -1405728551870261503
+    second: Galaga sprites_79
+  - first:
+      213: 7563903994641271399
+    second: Galaga sprites_80
+  - first:
+      213: 1468024705709173705
+    second: Enemy_Ship2_1
+  - first:
+      213: -3770676042514432401
+    second: Enemy_Ship2_2
+  - first:
+      213: 8850746144050802995
+    second: Galaga sprites_83
+  - first:
+      213: 4587483260429671346
+    second: Galaga sprites_84
+  - first:
+      213: 6990494722575430930
+    second: Galaga sprites_85
+  - first:
+      213: 7381753474701005398
+    second: Galaga sprites_86
+  - first:
+      213: 2098560028151544665
+    second: Galaga sprites_87
+  - first:
+      213: -8620510543670914252
+    second: Galaga sprites_88
+  - first:
+      213: -1277396012875649629
+    second: Galaga sprites_89
+  - first:
+      213: -7747108331100315987
+    second: Galaga sprites_90
+  - first:
+      213: -4026392681483619351
+    second: Galaga sprites_91
+  - first:
+      213: 243316768858626993
+    second: Galaga sprites_92
+  - first:
+      213: -7497582336764966138
+    second: Galaga sprites_93
+  - first:
+      213: -8290333070717809780
+    second: Galaga sprites_94
+  - first:
+      213: 7373242467328643512
+    second: Galaga sprites_95
+  - first:
+      213: -1168703003212789826
+    second: Galaga sprites_96
+  - first:
+      213: -7579583157591378305
+    second: Galaga sprites_97
+  - first:
+      213: 6599763495815162332
+    second: Galaga sprites_98
+  - first:
+      213: -580124795026136905
+    second: Galaga sprites_99
+  - first:
+      213: -8422332815141928592
+    second: Galaga sprites_100
+  - first:
+      213: -1012870621741083805
+    second: Galaga sprites_101
+  - first:
+      213: -6121502176607878679
+    second: Galaga sprites_102
+  - first:
+      213: -1611005717468054808
+    second: Galaga sprites_103
+  - first:
+      213: 7672344492358837760
+    second: Galaga sprites_104
+  - first:
+      213: 8841994175881491327
+    second: Galaga sprites_105
+  - first:
+      213: -3077354830811906491
+    second: Enemy_Ship3_1
+  - first:
+      213: -653662697156501147
+    second: Enemy_Ship3_2
+  - first:
+      213: 8421980063305249224
+    second: Galaga sprites_108
+  - first:
+      213: 4826077731512408071
+    second: Galaga sprites_109
+  - first:
+      213: 7138627257492332690
+    second: Galaga sprites_110
+  - first:
+      213: -2053315724279445887
+    second: Galaga sprites_111
+  - first:
+      213: -7030653453204526708
+    second: Galaga sprites_112
+  - first:
+      213: -6475326980037683383
+    second: Galaga sprites_113
+  - first:
+      213: 8017163385815370687
+    second: Galaga sprites_114
+  - first:
+      213: -1180631963147600046
+    second: Galaga sprites_115
+  - first:
+      213: 3344481983112609437
+    second: Galaga sprites_116
+  - first:
+      213: -2631056255244593355
+    second: Galaga sprites_117
+  - first:
+      213: -5055683788653769041
+    second: Galaga sprites_118
+  - first:
+      213: -3649536551001539165
+    second: Galaga sprites_119
+  - first:
+      213: 8659363102964100648
+    second: Galaga sprites_120
+  - first:
+      213: 291004973773192191
+    second: Galaga sprites_121
+  - first:
+      213: 3041242666095290482
+    second: Galaga sprites_122
+  - first:
+      213: 3986095980501866642
+    second: Galaga sprites_123
+  - first:
+      213: 7156471226377770556
+    second: Galaga sprites_124
+  - first:
+      213: -4244723997742599018
+    second: Galaga sprites_125
+  - first:
+      213: 1671562005946734138
+    second: Galaga sprites_126
+  - first:
+      213: -4448486585779044433
+    second: Galaga sprites_127
+  - first:
+      213: -3323988449067275763
+    second: Galaga sprites_128
+  - first:
+      213: -6976276132651070119
+    second: Galaga sprites_129
+  - first:
+      213: -607129082375649380
+    second: Galaga sprites_130
+  - first:
+      213: -1414764315689103798
+    second: Enemy_Ship4_1
+  - first:
+      213: -5327000145429424902
+    second: Enemy_Ship4_2
+  - first:
+      213: -4781844195000205130
+    second: Galaga sprites_133
+  - first:
+      213: 1327067611132153928
+    second: Galaga sprites_134
+  - first:
+      213: 4148257474746245284
+    second: Galaga sprites_135
+  - first:
+      213: 933349554138621507
+    second: Galaga sprites_136
+  - first:
+      213: -1024166974291683614
+    second: Galaga sprites_137
+  - first:
+      213: -5916711196598809742
+    second: Galaga sprites_138
+  - first:
+      213: 1466222058519246777
+    second: Galaga sprites_139
+  - first:
+      213: -694428645061580852
+    second: Galaga sprites_140
+  - first:
+      213: -5154051811614806343
+    second: Galaga sprites_141
+  - first:
+      213: -8983645937681458470
+    second: Galaga sprites_142
+  - first:
+      213: -4058993611508416336
+    second: Galaga sprites_143
+  - first:
+      213: 7696580304859617172
+    second: Galaga sprites_144
+  - first:
+      213: 2956215544178266356
+    second: Galaga sprites_145
+  - first:
+      213: 3158197209691661304
+    second: Galaga sprites_146
+  - first:
+      213: -8076338667717292100
+    second: Galaga sprites_147
+  - first:
+      213: 3568531578505766382
+    second: Galaga sprites_148
+  - first:
+      213: 8605402315963154005
+    second: Galaga sprites_149
+  - first:
+      213: -4020435862773470028
+    second: Galaga sprites_150
+  - first:
+      213: -4880164394904107064
+    second: Galaga sprites_151
+  - first:
+      213: 5628259003407212911
+    second: Galaga sprites_152
+  - first:
+      213: -879513986894111183
+    second: Galaga sprites_153
+  - first:
+      213: 832815191169930568
+    second: Galaga sprites_154
+  - first:
+      213: 8058164365766361335
+    second: Galaga sprites_155
+  - first:
+      213: 3346738360027062936
+    second: Galaga sprites_156
+  - first:
+      213: 8533001457085769751
+    second: Galaga sprites_157
+  - first:
+      213: -4831926252006425276
+    second: Galaga sprites_158
+  - first:
+      213: -5000647770398460558
+    second: Galaga sprites_159
+  - first:
+      213: 3830865680825407717
+    second: Galaga sprites_160
+  - first:
+      213: -4375709877570070594
+    second: Galaga sprites_161
+  - first:
+      213: -7023054563096736102
+    second: Galaga sprites_162
+  - first:
+      213: -6464419972740620647
+    second: Galaga sprites_163
+  - first:
+      213: -638998827652793100
+    second: Galaga sprites_164
+  - first:
+      213: 3884577405512569315
+    second: Galaga sprites_165
+  - first:
+      213: 2291245350103869233
+    second: Galaga sprites_166
+  - first:
+      213: -621890154895031918
+    second: Galaga sprites_167
+  - first:
+      213: -4170920581714271299
+    second: Galaga sprites_168
+  - first:
+      213: 523297129506189691
+    second: Galaga sprites_169
+  - first:
+      213: 1842596601753540283
+    second: Galaga sprites_170
+  - first:
+      213: 6176165057361517009
+    second: Galaga sprites_171
+  - first:
+      213: -3522414133578262724
+    second: Galaga sprites_172
+  - first:
+      213: -4414459353061321932
+    second: Galaga sprites_173
+  - first:
+      213: 6717057524832566936
+    second: Galaga sprites_174
+  - first:
+      213: 1200831548301874988
+    second: Galaga sprites_175
+  - first:
+      213: 3030195071213855912
+    second: Galaga sprites_176
+  - first:
+      213: -2298751748908847313
+    second: Galaga sprites_177
+  - first:
+      213: -4352661697582891077
+    second: Galaga sprites_178
+  - first:
+      213: -3575539674143618228
+    second: Galaga sprites_179
+  - first:
+      213: 804804049951424316
+    second: Galaga sprites_180
+  - first:
+      213: -7271664704067506063
+    second: Galaga sprites_181
+  - first:
+      213: -642761056920096936
+    second: Galaga sprites_182
+  - first:
+      213: 1708961128776012366
+    second: Galaga sprites_183
+  - first:
+      213: -9034517222856038421
+    second: Galaga sprites_184
+  - first:
+      213: 3007326418027323043
+    second: Galaga sprites_185
+  - first:
+      213: 3942461407742662001
+    second: Galaga sprites_186
+  - first:
+      213: -7994697115054862829
+    second: Galaga sprites_187
+  - first:
+      213: -5569346268686102966
+    second: Galaga sprites_188
+  - first:
+      213: 4247964777464300488
+    second: Galaga sprites_189
+  - first:
+      213: -1157741894330261638
+    second: Galaga sprites_190
+  - first:
+      213: 2843077999345223111
+    second: Galaga sprites_191
+  - first:
+      213: -1469186945373693020
+    second: Galaga sprites_192
+  - first:
+      213: -1531268461501747585
+    second: Galaga sprites_193
+  - first:
+      213: -6268478452812786885
+    second: Galaga sprites_194
+  - first:
+      213: 3184880889430721815
+    second: Galaga sprites_195
+  - first:
+      213: -163293611960861712
+    second: Galaga sprites_196
+  - first:
+      213: -4644938642136730741
+    second: Galaga sprites_197
+  - first:
+      213: -6026807673905000778
+    second: Galaga sprites_198
+  - first:
+      213: -2135709917923360567
+    second: Galaga sprites_199
+  - first:
+      213: 9189651054713101001
+    second: Galaga sprites_200
+  - first:
+      213: -1711203352826914793
+    second: Galaga sprites_201
+  - first:
+      213: -6441248916218457092
+    second: Galaga sprites_202
+  - first:
+      213: -3969258891392069983
+    second: Galaga sprites_203
+  - first:
+      213: 6616650294216482182
+    second: Galaga sprites_204
+  - first:
+      213: 8427187438370988953
+    second: Galaga sprites_205
+  - first:
+      213: -357174344342149002
+    second: Galaga sprites_206
+  - first:
+      213: -1619583481008954131
+    second: Galaga sprites_207
+  - first:
+      213: 795283696242840736
+    second: Galaga sprites_208
+  - first:
+      213: -3378540213370182234
+    second: Galaga sprites_209
+  - first:
+      213: 169035428266616056
+    second: Galaga sprites_210
+  - first:
+      213: 8795049459250980091
+    second: Galaga sprites_211
+  - first:
+      213: 3222475597181116172
+    second: Galaga sprites_212
+  - first:
+      213: 7091229410410131703
+    second: Galaga sprites_213
+  - first:
+      213: -1772848611574007789
+    second: Galaga sprites_214
+  - first:
+      213: -424826849112856586
+    second: Galaga sprites_215
+  - first:
+      213: 3412929882011116757
+    second: Galaga sprites_216
+  - first:
+      213: 6021591971470681701
+    second: Galaga sprites_217
+  - first:
+      213: -3470878014864340565
+    second: Galaga sprites_218
+  - first:
+      213: -1627023226982777874
+    second: Galaga sprites_219
+  - first:
+      213: -3835382831323180555
+    second: Galaga sprites_220
+  - first:
+      213: 4066515064204175358
+    second: Galaga sprites_221
+  - first:
+      213: -1245431150293320578
+    second: Galaga sprites_222
+  - first:
+      213: 9029896898993082026
+    second: Galaga sprites_223
+  - first:
+      213: 4822925969628752671
+    second: Galaga sprites_224
+  - first:
+      213: -7448581000869137366
+    second: Galaga sprites_225
+  - first:
+      213: 9083314197839511140
+    second: Galaga sprites_226
+  - first:
+      213: 7917831570673268289
+    second: Galaga sprites_227
+  - first:
+      213: 623208050079127375
+    second: Galaga sprites_228
+  - first:
+      213: 7850506230843133186
+    second: Galaga sprites_229
+  - first:
+      213: 1997434326372341234
+    second: Galaga sprites_230
+  - first:
+      213: 5494437148437772621
+    second: Galaga sprites_231
+  - first:
+      213: -1871519758868632026
+    second: Galaga sprites_232
+  - first:
+      213: -2505614543318860457
+    second: Galaga sprites_233
+  - first:
+      213: -2040200634624662149
+    second: Galaga sprites_234
+  - first:
+      213: -4375891314021217716
+    second: Galaga sprites_235
+  - first:
+      213: -7994681803832614954
+    second: Galaga sprites_236
+  - first:
+      213: 829969288776428061
+    second: Galaga sprites_237
+  - first:
+      213: 4494879107829236011
+    second: Galaga sprites_238
+  - first:
+      213: 1397229365454886429
+    second: Galaga sprites_239
+  - first:
+      213: 7248476742474657380
+    second: Galaga sprites_240
+  - first:
+      213: -650621587834640388
+    second: Galaga sprites_241
+  - first:
+      213: 4256456616477605216
+    second: Galaga sprites_242
+  - first:
+      213: 6641770269002619195
+    second: Galaga sprites_243
+  - first:
+      213: 7483176271288589273
+    second: Galaga sprites_244
+  - first:
+      213: -1304831475454472115
+    second: Galaga sprites_245
+  - first:
+      213: 3598236597125187981
+    second: Galaga sprites_246
+  - first:
+      213: 7917475714774953105
+    second: Galaga sprites_247
+  - first:
+      213: 8874229561268651112
+    second: Galaga sprites_248
+  - first:
+      213: -352629404054557221
+    second: Galaga sprites_249
+  - first:
+      213: 5289108284238752645
+    second: Galaga sprites_250
+  - first:
+      213: 4181741983376036230
+    second: Galaga sprites_251
+  - first:
+      213: -854823520787648703
+    second: Galaga sprites_252
+  - first:
+      213: -8304908116450423397
+    second: Galaga sprites_253
+  - first:
+      213: 2934334061039177270
+    second: Galaga sprites_254
+  - first:
+      213: 6536038966734545909
+    second: Galaga sprites_255
+  - first:
+      213: -6547151834657678260
+    second: Galaga sprites_256
+  - first:
+      213: 4278790862975769970
+    second: Galaga sprites_257
+  - first:
+      213: 5502985403277720719
+    second: Galaga sprites_258
+  - first:
+      213: 5010045673430061691
+    second: Galaga sprites_259
+  - first:
+      213: 7048365917972734940
+    second: Galaga sprites_260
+  - first:
+      213: -2183782007722198943
+    second: Galaga sprites_261
+  - first:
+      213: 3405204851557787140
+    second: Galaga sprites_262
+  - first:
+      213: -7675626332299408264
+    second: Galaga sprites_263
+  - first:
+      213: -2500824860019681395
+    second: Galaga sprites_264
+  - first:
+      213: -5735878663518254475
+    second: Galaga sprites_265
+  - first:
+      213: -1416269280919729221
+    second: Galaga sprites_266
+  - first:
+      213: -5197705030553059424
+    second: Galaga sprites_267
+  - first:
+      213: 3185107535289535334
+    second: Galaga sprites_268
+  - first:
+      213: 685149661863680051
+    second: Galaga sprites_269
+  - first:
+      213: -4324174306399066679
+    second: Galaga sprites_270
+  - first:
+      213: -4944009147567115636
+    second: Galaga sprites_271
+  - first:
+      213: -4396673956753420682
+    second: Galaga sprites_272
+  - first:
+      213: 1960695926720095323
+    second: Galaga sprites_273
+  - first:
+      213: 2026530508830742168
+    second: Galaga sprites_274
+  - first:
+      213: -8754005928994081000
+    second: Galaga sprites_275
+  - first:
+      213: 3136335567448425059
+    second: Galaga sprites_276
+  - first:
+      213: 7243939844346585761
+    second: Galaga sprites_277
+  - first:
+      213: 8814377504654504250
+    second: Galaga sprites_278
+  - first:
+      213: 2270484666510578280
+    second: Galaga sprites_279
+  - first:
+      213: -909946331701843170
+    second: Galaga sprites_280
+  - first:
+      213: 8477086291675140067
+    second: Galaga sprites_281
+  - first:
+      213: -2003191916670647778
+    second: Galaga sprites_282
+  - first:
+      213: -4702904199455410106
+    second: Galaga sprites_283
+  - first:
+      213: -2637028476616011896
+    second: Galaga sprites_284
+  - first:
+      213: 1582742828463253764
+    second: Galaga sprites_285
+  - first:
+      213: 9059010496468547852
+    second: Galaga sprites_286
+  - first:
+      213: -1445157609097161827
+    second: Galaga sprites_287
+  - first:
+      213: -6240105501915146704
+    second: Galaga sprites_288
+  - first:
+      213: -7818225265576592226
+    second: Galaga sprites_289
+  - first:
+      213: 427005755652201092
+    second: Galaga sprites_290
+  - first:
+      213: -4365802279725881568
+    second: Galaga sprites_291
+  - first:
+      213: 4291514486206229953
+    second: Galaga sprites_292
+  - first:
+      213: -7692925814205159478
+    second: Galaga sprites_293
+  - first:
+      213: 8162005994728601352
+    second: Galaga sprites_294
+  - first:
+      213: 1870460696039826097
+    second: Galaga sprites_295
+  - first:
+      213: 343761025364144698
+    second: Galaga sprites_296
+  - first:
+      213: -5338802095091057643
+    second: Galaga sprites_297
+  - first:
+      213: -1335437329474570128
+    second: Galaga sprites_298
+  - first:
+      213: 3003908943679767339
+    second: Galaga sprites_299
+  - first:
+      213: 7610530155251052764
+    second: Galaga sprites_300
+  - first:
+      213: 4070933268498553652
+    second: Galaga sprites_301
+  - first:
+      213: 4698624999393877716
+    second: Galaga sprites_302
+  - first:
+      213: 2202664061755038746
+    second: Galaga sprites_303
+  - first:
+      213: -8717872693317541262
+    second: Galaga sprites_304
+  - first:
+      213: 7288838187319216007
+    second: Galaga sprites_305
+  - first:
+      213: 7887717471911709790
+    second: Galaga sprites_306
+  - first:
+      213: 7302064841176582403
+    second: Galaga sprites_307
+  - first:
+      213: 4084324022302344381
+    second: Galaga sprites_308
+  - first:
+      213: -6798225993450969003
+    second: Galaga sprites_309
+  - first:
+      213: -8686304313504467154
+    second: Galaga sprites_310
+  - first:
+      213: -289747741971827962
+    second: Galaga sprites_311
+  - first:
+      213: -1881928975526738607
+    second: Galaga sprites_312
+  - first:
+      213: 3618141570828574444
+    second: Galaga sprites_313
+  - first:
+      213: -2800043860143662491
+    second: Galaga sprites_314
+  - first:
+      213: 191795767274144741
+    second: Galaga sprites_315
+  - first:
+      213: 7307447198093438044
+    second: Galaga sprites_316
+  - first:
+      213: 3063011022991436973
+    second: Galaga sprites_317
+  - first:
+      213: -3281657662900585475
+    second: Galaga sprites_318
+  - first:
+      213: 4454478821079160874
+    second: Galaga sprites_319
+  - first:
+      213: -7161433311993946090
+    second: Galaga sprites_320
+  - first:
+      213: -6148092604544028907
+    second: Galaga sprites_321
+  - first:
+      213: -2399044999096145931
+    second: Galaga sprites_322
+  - first:
+      213: 790140209464018142
+    second: Galaga sprites_323
+  - first:
+      213: 5160830584235637258
+    second: Galaga sprites_324
+  - first:
+      213: 4429537193870622417
+    second: Galaga sprites_325
+  - first:
+      213: 8170283541163646209
+    second: Galaga sprites_326
+  - first:
+      213: 2606380102361449313
+    second: Galaga sprites_327
+  - first:
+      213: -8323701122412105285
+    second: Galaga sprites_328
+  - first:
+      213: -4891617681924959101
+    second: Galaga sprites_329
+  - first:
+      213: -4909022622809366915
+    second: Galaga sprites_330
+  - first:
+      213: -4472693246536341810
+    second: Galaga sprites_331
+  - first:
+      213: -8904672969518424650
+    second: Galaga sprites_332
+  - first:
+      213: 5548244457439593873
+    second: Galaga sprites_333
+  - first:
+      213: -8341141157516265985
+    second: Galaga sprites_334
+  - first:
+      213: -3882037188095088038
+    second: Galaga sprites_335
+  - first:
+      213: -7008496436263944032
+    second: Galaga sprites_336
+  - first:
+      213: -2757147316829977729
+    second: Galaga sprites_337
+  - first:
+      213: -1647686671511930175
+    second: Galaga sprites_338
+  - first:
+      213: 7791073773250726928
+    second: Galaga sprites_339
+  - first:
+      213: -5624343457047359017
+    second: Galaga sprites_340
+  - first:
+      213: 1460787393248381489
+    second: Galaga sprites_341
+  - first:
+      213: -3647300196184062678
+    second: Galaga sprites_342
+  - first:
+      213: 7479493428332706640
+    second: Galaga sprites_343
+  - first:
+      213: 7422937315687471468
+    second: Galaga sprites_344
+  - first:
+      213: 8369520364094108556
+    second: Galaga sprites_345
+  - first:
+      213: -4491977069981866108
+    second: Galaga sprites_346
+  - first:
+      213: -2277468988370068132
+    second: Galaga sprites_347
+  - first:
+      213: 3805293570715574932
+    second: Galaga sprites_348
+  - first:
+      213: -4495291645507110573
+    second: Galaga sprites_349
+  - first:
+      213: -4114005336636377828
+    second: Galaga sprites_350
+  - first:
+      213: 479040204971819062
+    second: Galaga sprites_351
+  - first:
+      213: 7298438952588303968
+    second: Galaga sprites_352
+  - first:
+      213: 7279142564286063178
+    second: Galaga sprites_353
+  - first:
+      213: 7961401199978123959
+    second: Galaga sprites_354
+  - first:
+      213: 4746299169464499882
+    second: Galaga sprites_355
+  - first:
+      213: -2489938446080689814
+    second: Galaga sprites_356
+  - first:
+      213: -6983499765602884501
+    second: Galaga sprites_357
+  - first:
+      213: 9200016145412784279
+    second: Galaga sprites_358
+  - first:
+      213: -1105259587216638313
+    second: Galaga sprites_359
+  - first:
+      213: 1470803434569525940
+    second: Galaga sprites_360
+  - first:
+      213: 8002543218269159978
+    second: Galaga sprites_361
+  - first:
+      213: -915534100397631748
+    second: Galaga sprites_362
+  - first:
+      213: -7061846784606619347
+    second: Galaga sprites_363
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -85,7 +1183,6307 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Galaga sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b5a207bd144af90800000000000000
+      internalID: -6943352314762994941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28b51fb6be361d10800000000000000
+      internalID: 2095931631198386223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0058b7f21da99f350800000000000000
+      internalID: 6051037797584438528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eafc5becbec5330800000000000000
+      internalID: 3701092266837782054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47795222d23e0ae50800000000000000
+      internalID: 6818699618824853364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52972e558fa6c4e0800000000000000
+      internalID: -1961687600328109477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0500d5514402980800000000000000
+      internalID: -8565771632713379592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d2396506a49b3f0800000000000000
+      internalID: -884594074171790067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79644ad92efae3be0800000000000000
+      internalID: -1495564638398167401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd5af085a5552a40800000000000000
+      internalID: 5342770702266817989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b01aa6698fbfd0800000000000000
+      internalID: -2323987808666994361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45d90af7973caf0800000000000000
+      internalID: -377324354706516778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee19ae4d4ec85f610800000000000000
+      internalID: 1654383352581100014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c469aaba2b858fbe0800000000000000
+      internalID: -1443306156164737460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838faa371de7744c0800000000000000
+      internalID: -4303331480875370440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea5ddf40cdd9020800000000000000
+      internalID: 2350276494553886254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5fc76161314eb0800000000000000
+      internalID: -4737451038593819705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e75c25995f1613b0800000000000000
+      internalID: -5542207821817554974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5607453147c3550800000000000000
+      internalID: 6141911618196366808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71198b504ce0b220800000000000000
+      internalID: 2499757554348396927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f8d2ffcb30fc90800000000000000
+      internalID: -7138139645063661440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3c42597eaf1ddb0800000000000000
+      internalID: -4768754657862040580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_22
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63bd9f4a121fec0800000000000000
+      internalID: -3535007240058882318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67722ea05248f860800000000000000
+      internalID: 7563868488455059306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212ed798ab779fc0800000000000000
+      internalID: -3488183422342520532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3bf200bc039fc00800000000000000
+      internalID: 934832046095709177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3263e92cd38b10900800000000000000
+      internalID: 649002396715726371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8042b3877b103950800000000000000
+      internalID: 6426666868382253194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b920623857731cd0800000000000000
+      internalID: -2588594140121912910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ffe9497a27c8390800000000000000
+      internalID: -7814745189316100267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db161c5c8d76470800000000000000
+      internalID: 8387911174865403192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c5c7d203b223de0800000000000000
+      internalID: -1354973051963548548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d32ef06ac142fa0800000000000000
+      internalID: -5826500518353945274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee67387a3272d80800000000000000
+      internalID: -8275606587897876956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee14d5b36081ba40800000000000000
+      internalID: 5382224195425148647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127fd764bd70b5950800000000000000
+      internalID: 6438748730618148641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80795e7ab498b1d20800000000000000
+      internalID: 3250342514110338824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e94fba408834b600800000000000000
+      internalID: 483073183696505320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86efc3a8d8167c160800000000000000
+      internalID: 7045707402581966440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593cfd3dfb58d040800000000000000
+      internalID: 4672585756621683029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06779b60fe4d37910800000000000000
+      internalID: 1834043596345014112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a576ca0a303f3bf0800000000000000
+      internalID: -342502020809853532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde2d20238ecda40800000000000000
+      internalID: 5394441755176398264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229cebdf14402a0a0800000000000000
+      internalID: -6871925399937431262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_44
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d358c5338a223c90800000000000000
+      internalID: -7191638911925857324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0019afa2ac764dc0800000000000000
+      internalID: -3655097009390940150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_46
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1a68268305f160800000000000000
+      internalID: 7058551865711665125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593df7c61f6ad060800000000000000
+      internalID: 6979012716199229780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0546a9e1e2bed48d0800000000000000
+      internalID: -2860371604995939248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfab54e10dd85f260800000000000000
+      internalID: 7130761510011648763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951f2bcef2e53000800000000000000
+      internalID: 15167757724095902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0541a6545c7f65650800000000000000
+      internalID: 6221432361904116816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1abd97a451a1430800000000000000
+      internalID: 3754336648982929898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a914e9ded4ec500800000000000000
+      internalID: 418357498349722167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69deaad753262b8a0800000000000000
+      internalID: -6290857747602018922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1096d57db82560800000000000000
+      internalID: 7289284310707740653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ship_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dab23cd718167a0800000000000000
+      internalID: -6385680419489338031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ship_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704d7aa1f1cf1af0800000000000000
+      internalID: -423406596257922949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3213e13d13a2cd7b0800000000000000
+      internalID: -5198233476408659677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf11458b63e78900800000000000000
+      internalID: 686767519133933509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_60
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241a0d4eabe8a09c0800000000000000
+      internalID: -3960195988964990654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58979ced55b2cb750800000000000000
+      internalID: 6321975624731294085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb14929048561d5a0800000000000000
+      internalID: -6498301169555127876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d787478ad49f5c6f0800000000000000
+      internalID: -664851258033276803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_64
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596da9c2b3df1ed0800000000000000
+      internalID: -2440999708170294959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_65
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31958e497a1d222c0800000000000000
+      internalID: -4457770163455370989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f56a0b5d502640800000000000000
+      internalID: 5053141427507558203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_67
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b90bfe2789119f90800000000000000
+      internalID: -6948744681656481358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed753cf9c6ecde0800000000000000
+      internalID: -1310991008085320152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_69
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c37f900f7f9eb3d0800000000000000
+      internalID: -3188936118311619640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_70
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac2abaefd67ac80800000000000000
+      internalID: -8311553646720267694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_71
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf84ff20a157d9d20800000000000000
+      internalID: 3286912057630214396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_72
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed4086c2318bb50800000000000000
+      internalID: 6609053534610841276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_73
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078da8d788e7e260800000000000000
+      internalID: 7126920605490579213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_74
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f07dc8b409ddd70800000000000000
+      internalID: 9069563878753898304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e322c182e7776d870800000000000000
+      internalID: 8707278313289949758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d6d30c313df0d0800000000000000
+      internalID: -3387497210880534479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_77
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a75674c3d00e00800000000000000
+      internalID: 1009039157283498478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_78
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc61955d0a08a7d0800000000000000
+      internalID: -2907062507081208614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10716277459dd7ce0800000000000000
+      internalID: -1405728551870261503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_80
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a40cb9b9268f860800000000000000
+      internalID: 7563903994641271399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ship2_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbea4121b87f5410800000000000000
+      internalID: 1468024705709173705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ship2_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ef9d20e1edbabc0800000000000000
+      internalID: -3770676042514432401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317e4989ba24da70800000000000000
+      internalID: 8850746144050802995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_84
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb16f648b30aaf30800000000000000
+      internalID: 4587483260429671346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f957b9e9330160800000000000000
+      internalID: 6990494722575430930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_86
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6521f0fcca1417660800000000000000
+      internalID: 7381753474701005398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_87
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7ec91a359f1d10800000000000000
+      internalID: 2098560028151544665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_88
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4335cfd755bcd5880800000000000000
+      internalID: -8620510543670914252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adeb0f1817c54ee0800000000000000
+      internalID: -1277396012875649629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_90
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daedb40d40ebc7490800000000000000
+      internalID: -7747108331100315987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_91
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3bfed50316f18c0800000000000000
+      internalID: -4026392681483619351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbd6b7ef4f606300800000000000000
+      internalID: 243316768858626993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b81eea69c33f790800000000000000
+      internalID: -7497582336764966138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_94
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b013a0ff1d2fc80800000000000000
+      internalID: -8290333070717809780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_95
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d2fb75f4035660800000000000000
+      internalID: 7373242467328643512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_96
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c1958fcee7cfe0800000000000000
+      internalID: -1168703003212789826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_97
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767b3ac649efc690800000000000000
+      internalID: -7579583157591378305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_98
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd927a1bee1179b50800000000000000
+      internalID: 6599763495815162332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_99
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02213929bf2f7f0800000000000000
+      internalID: -580124795026136905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07189559decdd1b80800000000000000
+      internalID: -8422332815141928592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_101
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36391b3398f81f1f0800000000000000
+      internalID: -1012870621741083805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_102
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1c187143e0c0ba0800000000000000
+      internalID: -6121502176607878679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_103
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea713fd5de84a9e0800000000000000
+      internalID: -1611005717468054808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_104
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006297d7aa4a97a60800000000000000
+      internalID: 7672344492358837760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f733d772bd215ba70800000000000000
+      internalID: 8841994175881491327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ship3_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ebf9df51a0b45d0800000000000000
+      internalID: -3077354830811906491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ship3_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561201d7d39bde6f0800000000000000
+      internalID: -653662697156501147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_108
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c13bbafe32e0e470800000000000000
+      internalID: 8421980063305249224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_109
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708583d802ca9f240800000000000000
+      internalID: 4826077731512408071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_110
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29060ca2baf711360800000000000000
+      internalID: 7138627257492332690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_111
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186899a4a382183e0800000000000000
+      internalID: -2053315724279445887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_112
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89eede2fe91e6e90800000000000000
+      internalID: -7030653453204526708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_113
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d95e5b640326a0800000000000000
+      internalID: -6475326980037683383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_114
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb0bc56f9fa24f60800000000000000
+      internalID: 8017163385815370687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_115
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7d1a1c7d8d9fe0800000000000000
+      internalID: -1180631963147600046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_116
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9efe11d4acf96e20800000000000000
+      internalID: 3344481983112609437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_117
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537931a964c9c7bd0800000000000000
+      internalID: -2631056255244593355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_118
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae4790616a96d9b0800000000000000
+      internalID: -5055683788653769041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_119
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adbfbac7dd3a5dc0800000000000000
+      internalID: -3649536551001539165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_120
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eac45ecdc3c2870800000000000000
+      internalID: 8659363102964100648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_121
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb7f995b7bd90400800000000000000
+      internalID: 291004973773192191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_122
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782f54771aa43a20800000000000000
+      internalID: 3041242666095290482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_123
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981d6ecc25715730800000000000000
+      internalID: 3986095980501866642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_124
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c361d8de9a4e05360800000000000000
+      internalID: 7156471226377770556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_125
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f9f87306b715c0800000000000000
+      internalID: -4244723997742599018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_126
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369e70c9c4923710800000000000000
+      internalID: 1671562005946734138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_127
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafbc82f40dc342c0800000000000000
+      internalID: -4448486585779044433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_128
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae7d7ed12ded1d0800000000000000
+      internalID: -3323988449067275763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_129
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d0c4ab1d94f2f90800000000000000
+      internalID: -6976276132651070119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_130
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c038f05b0397f0800000000000000
+      internalID: -607129082375649380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ship4_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec372c95fbd5ce0800000000000000
+      internalID: -1414764315689103798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ship4_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af499356791b216b0800000000000000
+      internalID: -5327000145429424902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_133
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0cfb93a0a73adb0800000000000000
+      internalID: -4781844195000205130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_134
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840557216f0ba6210800000000000000
+      internalID: 1327067611132153928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_135
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0eb13e132919930800000000000000
+      internalID: 4148257474746245284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346a3b1797ce3fc00800000000000000
+      internalID: 933349554138621507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_137
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e658aa209d69c1f0800000000000000
+      internalID: -1024166974291683614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_138
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc628c38e93eda0800000000000000
+      internalID: -5916711196598809742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_139
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b1ef9131195410800000000000000
+      internalID: 1466222058519246777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_140
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7af3993d4ec56f0800000000000000
+      internalID: -694428645061580852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_141
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beadb64f212978b0800000000000000
+      internalID: -5154051811614806343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_142
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9d98fd9da35380800000000000000
+      internalID: -8983645937681458470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_143
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00678d0de8ba7c0800000000000000
+      internalID: -4058993611508416336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_144
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497dc60520fbfca60800000000000000
+      internalID: 7696580304859617172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_145
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0db3eef56960920800000000000000
+      internalID: 2956215544178266356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_146
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f32d4e11ab24db20800000000000000
+      internalID: 3158197209691661304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_147
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf85f0a5c41bef80800000000000000
+      internalID: -8076338667717292100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_148
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5a9925098f58130800000000000000
+      internalID: 3568531578505766382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_149
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebe4020d78c6770800000000000000
+      internalID: 8605402315963154005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc652d42ea8438c0800000000000000
+      internalID: -4020435862773470028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_151
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74b3cc65c264cb0800000000000000
+      internalID: -4880164394904107064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_152
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f612bf96eb79b1e40800000000000000
+      internalID: 5628259003407212911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_153
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e503450b65bc3f0800000000000000
+      internalID: -879513986894111183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_154
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8459b310101ce8b00800000000000000
+      internalID: 832815191169930568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_155
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f00733fbc954df60800000000000000
+      internalID: 8058164365766361335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_156
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89226918ec0027e20800000000000000
+      internalID: 3346738360027062936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_157
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ec7d8d9f4b6670800000000000000
+      internalID: 8533001457085769751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_158
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44db548acac81fcb0800000000000000
+      internalID: -4831926252006425276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_159
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275fc8ee8512a9ab0800000000000000
+      internalID: -5000647770398460558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_160
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e855d73a08f92530800000000000000
+      internalID: 3830865680825407717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_161
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb79443cc0b5643c0800000000000000
+      internalID: -4375709877570070594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_162
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ece68a519198e90800000000000000
+      internalID: -7023054563096736102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_163
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99edad5e844c946a0800000000000000
+      internalID: -6464419972740620647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_164
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc3dd9a3f1d127f0800000000000000
+      internalID: -638998827652793100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_165
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d516a19ac8e530800000000000000
+      internalID: 3884577405512569315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_166
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137e432a1832ccf10800000000000000
+      internalID: 2291245350103869233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_167
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914b24f23a9e57f0800000000000000
+      internalID: -621890154895031918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_168
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32e8454d9ed16c0800000000000000
+      internalID: -4170920581714271299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_169
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71b23c77ff134700800000000000000
+      internalID: 523297129506189691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_170
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb69cd7c8d7329910800000000000000
+      internalID: 1842596601753540283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_171
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9963e956526b550800000000000000
+      internalID: 6176165057361517009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_172
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c379040120fdd1fc0800000000000000
+      internalID: -3522414133578262724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_173
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43311617b90bcb2c0800000000000000
+      internalID: -4414459353061321932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_174
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e7287fa38c73d50800000000000000
+      internalID: 6717057524832566936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_175
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c279d9f4ee53aa010800000000000000
+      internalID: 1200831548301874988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_176
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a467d3dc5a6d0a20800000000000000
+      internalID: 3030195071213855912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_177
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fea73b6713910e0800000000000000
+      internalID: -2298751748908847313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_178
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7f185f3d3893c0800000000000000
+      internalID: -4352661697582891077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_179
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8a524c91216ec0800000000000000
+      internalID: -3575539674143618228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_180
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7627f40d3b2b00800000000000000
+      internalID: 804804049951424316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_181
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1707f448a7bd51b90800000000000000
+      internalID: -7271664704067506063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_182
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fa2d669347417f0800000000000000
+      internalID: -642761056920096936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_183
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4215a7971377b710800000000000000
+      internalID: 1708961128776012366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_184
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be76486e372fe9280800000000000000
+      internalID: -9034517222856038421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_185
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9a26917b2cb920800000000000000
+      internalID: 3007326418027323043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_186
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175103523cf66b630800000000000000
+      internalID: 3942461407742662001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_187
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e8052e4512d0190800000000000000
+      internalID: -7994697115054862829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_188
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e41d78315b5b2b0800000000000000
+      internalID: -5569346268686102966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_189
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3812b557dc3fa30800000000000000
+      internalID: 4247964777464300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_190
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f5bde81efdeefe0800000000000000
+      internalID: -1157741894330261638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_191
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c543bb8064a47720800000000000000
+      internalID: 2843077999345223111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_192
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab1c5cd1466c9be0800000000000000
+      internalID: -1469186945373693020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_193
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eed608277dfbae0800000000000000
+      internalID: -1531268461501747585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_194
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3357e91f04e109a0800000000000000
+      internalID: -6268478452812786885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_195
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715c2727b48f23c20800000000000000
+      internalID: 3184880889430721815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_196
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb7bf8335ddbbdf0800000000000000
+      internalID: -163293611960861712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_197
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8374f73aecd98fb0800000000000000
+      internalID: -4644938642136730741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_198
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be4b4b1a5a7c5ca0800000000000000
+      internalID: -6026807673905000778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_199
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c046e6252f6c52e0800000000000000
+      internalID: -2135709917923360567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cad7f502f2388f70800000000000000
+      internalID: 9189651054713101001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_201
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185b40fd959048e0800000000000000
+      internalID: -1711203352826914793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_202
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3dde6ec361c96a0800000000000000
+      internalID: -6441248916218457092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_203
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec30d711c5ae8c0800000000000000
+      internalID: -3969258891392069983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_204
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd1c5d26013db50800000000000000
+      internalID: 6616650294216482182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_205
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993acb7735263f470800000000000000
+      internalID: 8427187438370988953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_206
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6786a9283df0b0bf0800000000000000
+      internalID: -357174344342149002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_207
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ee5aa7651689e0800000000000000
+      internalID: -1619583481008954131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_208
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4d632ee4a690b00800000000000000
+      internalID: 795283696242840736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_209
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5a2b283930d11d0800000000000000
+      internalID: -3378540213370182234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_210
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a94093d8885200800000000000000
+      internalID: 169035428266616056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_211
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf465a092ea4e0a70800000000000000
+      internalID: 8795049459250980091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_212
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f58537b7888bc20800000000000000
+      internalID: 3222475597181116172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_213
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07c4ce39b196260800000000000000
+      internalID: 7091229410410131703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_214
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318369aa4939567e0800000000000000
+      internalID: -1772848611574007789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_215
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f764974b36ba1af0800000000000000
+      internalID: -424826849112856586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_216
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4a69c25a92d5f20800000000000000
+      internalID: 3412929882011116757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_217
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566aad98efdf09350800000000000000
+      internalID: 6021591971470681701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_218
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba94c41c5d6f4dfc0800000000000000
+      internalID: -3470878014864340565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_219
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebb162def6ab69e0800000000000000
+      internalID: -1627023226982777874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_220
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19959b2abf5cac0800000000000000
+      internalID: -3835382831323180555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_221
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72aa3d7e92f6830800000000000000
+      internalID: 4066515064204175358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_222
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7f86a7f657bee0800000000000000
+      internalID: -1245431150293320578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_223
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae42ee1363a05d70800000000000000
+      internalID: 9029896898993082026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_224
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6abdcd997ee240800000000000000
+      internalID: 4822925969628752671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_225
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b8724b0351a890800000000000000
+      internalID: -7448581000869137366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_226
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7c71332a6e0e70800000000000000
+      internalID: 9083314197839511140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_227
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1467a51fcd9c1ed60800000000000000
+      internalID: 7917831570673268289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_228
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47512e6b6416a800800000000000000
+      internalID: 623208050079127375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_229
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d456cb2d992fc60800000000000000
+      internalID: 7850506230843133186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_230
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5589ddfef48bb10800000000000000
+      internalID: 1997434326372341234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_231
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49f759c979204c40800000000000000
+      internalID: 5494437148437772621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_232
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea28ee1b60706e0800000000000000
+      internalID: -1871519758868632026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_233
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3d6129d44a3dd0800000000000000
+      internalID: -2505614543318860457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_234
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75abae0550cfa3e0800000000000000
+      internalID: -2040200634624662149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_235
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a4c0cc806b543c0800000000000000
+      internalID: -4375891314021217716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_236
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df174ec14f2d0190800000000000000
+      internalID: -7994681803832614954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_237
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa008bba4a48b00800000000000000
+      internalID: 829969288776428061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_238
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b218c72dbb4016e30800000000000000
+      internalID: 4494879107829236011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_239
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16dead74b4f36310800000000000000
+      internalID: 1397229365454886429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_240
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee1e57133c79460800000000000000
+      internalID: 7248476742474657380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_241
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf76aedec1788f6f0800000000000000
+      internalID: -650621587834640388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_242
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d3203bdb8f11b30800000000000000
+      internalID: 4256456616477605216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_243
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39d6abbede4c2c50800000000000000
+      internalID: 6641770269002619195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_244
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbd9c1db2599d760800000000000000
+      internalID: 7483176271288589273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_245
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4099c5bfae44ede0800000000000000
+      internalID: -1304831475454472115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_246
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89057dee118fe130800000000000000
+      internalID: 3598236597125187981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_247
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c61f8c63680ed60800000000000000
+      internalID: 7917475714774953105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_248
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86440bea4c8972b70800000000000000
+      internalID: 8874229561268651112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_249
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd68f1ec653b1bf0800000000000000
+      internalID: -352629404054557221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_250
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b60ac26ffa66940800000000000000
+      internalID: 5289108284238752645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_251
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68157759d28880a30800000000000000
+      internalID: 4181741983376036230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_252
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fadc1798e0324f0800000000000000
+      internalID: -854823520787648703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_253
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc6b2c11a0fbc80800000000000000
+      internalID: -8304908116450423397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_254
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec1902849d8b820800000000000000
+      internalID: 2934334061039177270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_255
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e2529fcca4ba50800000000000000
+      internalID: 6536038966734545909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_256
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9eac3818d325a0800000000000000
+      internalID: -6547151834657678260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_257
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d9bdfae91516b30800000000000000
+      internalID: 4278790862975769970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_258
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c378671188e5c40800000000000000
+      internalID: 5502985403277720719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_259
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b721841eef1478540800000000000000
+      internalID: 5010045673430061691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_260
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32cb36573d0d160800000000000000
+      internalID: 7048365917972734940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_261
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16834da85d5a1b1e0800000000000000
+      internalID: -2183782007722198943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_262
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e98c55c7b14f20800000000000000
+      internalID: 3405204851557787140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_263
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cc8aa9482ba7590800000000000000
+      internalID: -7675626332299408264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_264
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d879f0d2a094b4dd0800000000000000
+      internalID: -2500824860019681395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_265
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a804adeb01660b0800000000000000
+      internalID: -5735878663518254475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_266
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb4b7cb796685ce0800000000000000
+      internalID: -1416269280919729221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_267
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afbf9630da0ed7b0800000000000000
+      internalID: -5197705030553059424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_268
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4a5c8d66c33c20800000000000000
+      internalID: 3185107535289535334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_269
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3381d55ccf3228900800000000000000
+      internalID: 685149661863680051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_270
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c56638f0627df3c0800000000000000
+      internalID: -4324174306399066679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_271
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82faf0ffd9536bb0800000000000000
+      internalID: -4944009147567115636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_272
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e4086b450ebf2c0800000000000000
+      internalID: -4396673956753420682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_273
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e4b0ae8ac53b10800000000000000
+      internalID: 1960695926720095323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_274
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961951c2ceaf1c10800000000000000
+      internalID: 2026530508830742168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_275
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f4a00df5838680800000000000000
+      internalID: -8754005928994081000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_276
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362cf22e490868b20800000000000000
+      internalID: 3136335567448425059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_277
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2a39c88e4a78460800000000000000
+      internalID: 7243939844346585761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_278
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313021d3a5f25a70800000000000000
+      internalID: 8814377504654504250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_279
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862955f46c1628f10800000000000000
+      internalID: 2270484666510578280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_280
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bed36e1a83f53f0800000000000000
+      internalID: -909946331701843170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_281
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef41a99119a4a570800000000000000
+      internalID: 8477086291675140067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_282
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1289eda09b3334e0800000000000000
+      internalID: -2003191916670647778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_283
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64874c23c8debbeb0800000000000000
+      internalID: -4702904199455410106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_284
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f86b47294676bd0800000000000000
+      internalID: -2637028476616011896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_285
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409695d773807f510800000000000000
+      internalID: 1582742828463253764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_286
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09fa82cc0218bd70800000000000000
+      internalID: 9059010496468547852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_287
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d939f41bfc4c1fbe0800000000000000
+      internalID: -1445157609097161827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_288
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03613658b11b669a0800000000000000
+      internalID: -6240105501915146704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_289
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb25f2b85108390800000000000000
+      internalID: -7818225265576592226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_290
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a52bee8770de500800000000000000
+      internalID: 427005755652201092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_291
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027295525fd8963c0800000000000000
+      internalID: -4365802279725881568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_292
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde3c210b58e8b30800000000000000
+      internalID: 4291514486206229953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_293
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac76ed81bbc3d3590800000000000000
+      internalID: -7692925814205159478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_294
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80738624535454170800000000000000
+      internalID: 8162005994728601352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_295
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a8c9c71635f910800000000000000
+      internalID: 1870460696039826097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_296
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32347cc4d845c400800000000000000
+      internalID: 343761025364144698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_297
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c7cfbd7c3c8e5b0800000000000000
+      internalID: -5338802095091057643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_298
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0783fd403d2977de0800000000000000
+      internalID: -1335437329474570128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga sprites_299
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23c6a5d44700b920800000000000000
+      internalID: 3003908943679767339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
