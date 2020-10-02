@@ -157,7 +157,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -172,7 +172,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 95
+  field of view: 117
   orthographic: 0
   orthographic size: 4.2970963
   m_Depth: -1
@@ -219,7 +219,7 @@ PrefabInstance:
     - target: {fileID: 3609556852420158648, guid: 2005d8869c71e9443a759dfd7cc02018,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 3609556852420158648, guid: 2005d8869c71e9443a759dfd7cc02018,
         type: 3}
