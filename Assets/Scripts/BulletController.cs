@@ -20,7 +20,7 @@ public class BulletController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
         float h = Input.GetAxis("Horizontal");
 
