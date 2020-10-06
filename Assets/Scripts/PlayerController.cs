@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     private Transform player;
     public float speed;
     public float maxBound, minBound;
+
     // Start is called before the first frame update
     void Start()
     {
