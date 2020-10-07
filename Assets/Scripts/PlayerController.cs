@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         float h = Input.GetAxis("Horizontal");
+
         if (player.position.x < minBound && h < 0)
             h = 0;
         else if (player.position.x > maxBound && h > 0)

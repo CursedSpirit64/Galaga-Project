@@ -21,14 +21,13 @@ public class BulletController : MonoBehaviour
             Destroy(gameObject);
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D (Collider2D other)
     {
         if (other.tag == "Enemy")
         {
             Destroy(other.gameObject);
             Destroy(gameObject);
         }
-        //Increase Player Score too
         else if (other.tag == "Base")
             Destroy(gameObject);
     }
