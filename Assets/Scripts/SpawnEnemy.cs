@@ -8,6 +8,7 @@ public class SpawnEnemy : MonoBehaviour
     void Start()
     {
         InvokeRepeating("SpawnBad", 0, 0);
+        //1.5 distance between each enemy, if not functional use 1.75
     }
 
 
