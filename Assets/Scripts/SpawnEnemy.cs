@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class SpawnEnemy : MonoBehaviour
 {
-    public int = badX;
-    public int = badY;
+    public int ;
+    public int ;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,12 +25,6 @@ public class SpawnEnemy : MonoBehaviour
 
             i++;
         }
-    }
-
-
-    void SpawnBad()
-    {
-        Debug.Log("Invoked");
     }
 
     // Update is called once per frame
