@@ -19,7 +19,7 @@ public class EnemyBehavior : MonoBehaviour
     
     void OnTriggerEnter2D (Collider2D other)
     {
-        if(other.tag == "PlayerBullet")
+        if(other.tag == "Bullet")
         {
             Destroy(other.gameObject);
             Destroy(gameObject);
