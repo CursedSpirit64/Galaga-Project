@@ -17,7 +17,7 @@ public class EnemySpawner : MonoBehaviour
     IEnumerator SpawnObject(int index, float seconds)
     {
         yield return new WaitForSeconds(seconds);
-        Instantiate(enemies(index), transform.position, transform.rotation);
+        Instantiate(enemies [index], transform.position, transform.rotation);
         isSpawning = false;
     }
     // Update is called once per frame
