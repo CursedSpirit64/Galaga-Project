@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 9094423563072188002}
   - component: {fileID: -2340427991929662525}
   - component: {fileID: 4537186663747914694}
+  - component: {fileID: 59819304276111464}
   m_Layer: 0
   m_Name: BigEnemy
   m_TagString: BigEnemy
@@ -131,3 +132,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.58, y: 0.68}
   m_EdgeRadius: 0
+--- !u!114 &59819304276111464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9094423563072188003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2003b3bf1b87a9f4080af3e6a7de2dbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocityEnemy: 2
