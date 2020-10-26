@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 259631552470592085}
   - component: {fileID: 9067566273005686941}
   - component: {fileID: -6120484665762151687}
+  - component: {fileID: -5776038526292060771}
   m_Layer: 0
   m_Name: BossShip_1
   m_TagString: BossEnemy
@@ -131,3 +132,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.85, y: 0.69}
   m_EdgeRadius: 0
+--- !u!114 &-5776038526292060771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 259631552470592086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2003b3bf1b87a9f4080af3e6a7de2dbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocityEnemy: 3
